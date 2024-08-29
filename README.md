@@ -16,8 +16,8 @@ Get Kamikaze up and running in no time:
    git clone https://github.com/uslanozan/kamikaze.git
    
 2. Navigate to the project directory:
-  ```bash
-  cd kamikaze
+   ```bash
+   cd kamikaze
 
 3. Build the project:
   ```bash
