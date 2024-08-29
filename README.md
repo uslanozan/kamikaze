@@ -20,8 +20,8 @@ Get Kamikaze up and running in no time:
    cd kamikaze
 
 3. Build the project:
-  ```bash
-  go build
+   ```bash
+   go build
    
 ## Usage 🛠️
 Start your subdomain exploration journey:
@@ -36,11 +36,11 @@ Start your subdomain exploration journey:
 
 ## Example 📋
 See Kamikaze in action:
-  ```bash
-  ./kamikaze -d github.com -wl default
+   ```bash
+   ./kamikaze -d github.com -wl default
 
- ```bash
-  ./kamikaze -d github.com -wl /user/bin/rockyou.txt
+   ```bash
+   ./kamikaze -d github.com -wl /user/bin/rockyou.txt
 
 ## Contributing 🤝
 Join the Kamikaze community and make it even better:
