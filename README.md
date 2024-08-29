@@ -50,16 +50,13 @@ Join the Kamikaze community and make it even better:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License ⚖️
-Kamikaze is released under:
-
 ## Disclaimer ⚠️
 Use responsibly and ethically:
 
 This tool is for educational and ethical testing purposes only. Always ensure you have permission before scanning domains you do not own or have explicit permission to test.
 
 ## Contact 📬
-Get in touch with the creator:
+Get in touch with the me:
 
 - GitHub: [@uslanozan](https://github.com/uslanozan)
 - Linkedin: [@uslanozan](https://www.linkedin.com/in/uslanozan/)
