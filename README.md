@@ -37,8 +37,12 @@ Start your subdomain exploration journey:
 ## Example 📋
 
 See Kamikaze in action:
+1. Bruteforce with default txt:
    ```bash
    ./kamikaze -d github.com -wl default
+
+2. Bruteforce with spesific txt:
+   ```bash
    ./kamikaze -d github.com -wl /user/bin/rockyou.txt
 
 ## Contributing 🤝
