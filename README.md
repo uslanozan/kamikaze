@@ -36,8 +36,8 @@ Start your subdomain exploration journey:
 
 ## Example 📋
 See Kamikaze in action:
-   ```bash
-   ./kamikaze -d github.com -wl default
+```bash
+./kamikaze -d github.com -wl default
 
    ```bash
    ./kamikaze -d github.com -wl /user/bin/rockyou.txt
