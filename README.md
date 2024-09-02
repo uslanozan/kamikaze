@@ -1,6 +1,9 @@
 # Kamikaze 🚀
 Unleash the power of subdomain discovery!
 
+![Ekran görüntüsü 2024-08-29 125343](https://github.com/user-attachments/assets/abe5b4fb-8342-47de-94af-f4058b355294)
+
+
 ## Features 🔍
 Kamikaze comes packed with powerful features to supercharge your subdomain reconnaissance:
 
